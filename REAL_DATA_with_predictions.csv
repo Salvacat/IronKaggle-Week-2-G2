@@ -1,4 +1,4 @@
-index,store_ID,day_of_week,date,nb_customers_on_day,open,promotion,state_holiday,school_holiday,month,day_of_month,week_of_year,is_month_end,customer_promotion,predicted_sales
+index,store_ID,day_of_week,date,nb_customers_on_day,open,promotion,state_holiday,school_holiday,month,day_of_month,week_of_year,is_month_end,customer_promotion,sales
 272371,415,7,2015-03-01,0,0,0,0,0,3,1,9,0,0,0.0
 558468,27,7,2013-12-29,0,0,0,0,0,12,29,52,0,0,0.0
 76950,404,3,2014-03-19,657,1,1,0,0,3,19,12,0,657,6710.689
